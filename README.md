@@ -1,5 +1,5 @@
 # ToolsFullConditionMod
-Mod that sets condition to 100% for looted tool and firemaking items, where condition doesn't have a function anyway.
+Mod that sets condition to 100% for looted tool and firemaking items, where condition doesn't have a function anyway.__
 Affected items:
 - Matches (both types)
 - Lamp Fuel
