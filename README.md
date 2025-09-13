@@ -14,6 +14,6 @@ Shouldn't be too hard to add more items, so let me know if you want some other i
 I added Ammo because I use Reduced Loot and while I like the idea to harvest ammo to make perfect ones, you can only harvest one by one, so it's quite tedious. Single cartridges not affected!  
 Thank you for downloading!  
 
-Mod for The Long Dark game created by Hinterland studios
+Mod for The Long Dark game created by Hinterland studios  
 Modtemplate by Digital Zombie  
 Made by BaltaZar  
