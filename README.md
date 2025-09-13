@@ -7,6 +7,8 @@ Affected items:
 - Magnifying Lens
 - Antiseptic
 - Ammo boxes (this one is relevant only, if you have "Reduced Loot" mod installed)
+# Installation
+Download and place the dll file into your /Mods folder.  
 
 Works both for loose and container item spawns.  
 You can now trade all the found lamp oil with the trader.  
