@@ -1,0 +1,8 @@
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ModTemplate.csproj.AssemblyReference.cache
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ModTemplate.GeneratedMSBuildEditorConfig.editorconfig
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ModTemplate.csproj.CoreCompileInputs.cache
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\bin\Release\net6.0\ModTemplate.deps.json
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\bin\Release\net6.0\ModTemplate.dll
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ModTemplate.dll
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\refint\ModTemplate.dll
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ref\ModTemplate.dll

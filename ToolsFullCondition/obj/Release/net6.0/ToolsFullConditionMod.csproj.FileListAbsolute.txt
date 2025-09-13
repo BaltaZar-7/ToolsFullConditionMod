@@ -1,0 +1,16 @@
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\bin\Release\net6.0\ToolsFullConditionMod.deps.json
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\bin\Release\net6.0\ToolsFullConditionMod.dll
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ToolsFullConditionMod.csproj.AssemblyReference.cache
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ToolsFullConditionMod.GeneratedMSBuildEditorConfig.editorconfig
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ToolsFullConditionMod.csproj.CoreCompileInputs.cache
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ToolsFullConditionMod.dll
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\refint\ToolsFullConditionMod.dll
+F:\MODS\TLD\SAJAT\ToolsFullCondition\ToolsFullCondition\obj\Release\net6.0\ref\ToolsFullConditionMod.dll
+F:\MODS\TLD\SAJAT\ToolsFullConditionMod\ToolsFullCondition\bin\Release\net6.0\ToolsFullConditionMod.deps.json
+F:\MODS\TLD\SAJAT\ToolsFullConditionMod\ToolsFullCondition\bin\Release\net6.0\ToolsFullConditionMod.dll
+F:\MODS\TLD\SAJAT\ToolsFullConditionMod\ToolsFullCondition\obj\Release\net6.0\ToolsFullConditionMod.csproj.AssemblyReference.cache
+F:\MODS\TLD\SAJAT\ToolsFullConditionMod\ToolsFullCondition\obj\Release\net6.0\ToolsFullConditionMod.GeneratedMSBuildEditorConfig.editorconfig
+F:\MODS\TLD\SAJAT\ToolsFullConditionMod\ToolsFullCondition\obj\Release\net6.0\ToolsFullConditionMod.csproj.CoreCompileInputs.cache
+F:\MODS\TLD\SAJAT\ToolsFullConditionMod\ToolsFullCondition\obj\Release\net6.0\ToolsFullConditionMod.dll
+F:\MODS\TLD\SAJAT\ToolsFullConditionMod\ToolsFullCondition\obj\Release\net6.0\refint\ToolsFullConditionMod.dll
+F:\MODS\TLD\SAJAT\ToolsFullConditionMod\ToolsFullCondition\obj\Release\net6.0\ref\ToolsFullConditionMod.dll
