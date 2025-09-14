@@ -16,6 +16,6 @@ You can now trade all the found lamp oil with the trader.
 Shouldn't be too hard to add more items, so let me know if you want some other items included.  
 I added Ammo because I use Reduced Loot and while I like the idea to harvest ammo to make perfect ones, you can only harvest one by one, so it's quite tedious. Single cartridges not affected!  
 
-Mod for The Long Dark game created by Hinterland studios  
+Mod for The Long Dark game created by Hinterland Studios  
 Modtemplate by Digitalzombie  
 Made by BaltaZar  
