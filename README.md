@@ -1,6 +1,6 @@
 # ToolsFullConditionMod
-Mod that sets condition to 100% for looted tool and firemaking items, where condition doesn't have a function anyway.
-When you loot these items from containers, in the pick up window it doesn't show 100%, but in your inventory these items should be 100%.
+Mod that sets condition to 100% for looted tool and firemaking items, where condition doesn't have a function anyway.  
+When you loot these items from containers, in the pick up window it doesn't show 100%, but in your inventory these items should be 100%.  
 Affected items:  
 - Matches (both types)
 - Lamp Fuel
