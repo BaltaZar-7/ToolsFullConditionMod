@@ -42,33 +42,35 @@ namespace ToolsFullConditionMod
             yield return new WaitForSeconds(3f); // 3 secs delay
 
             // Loose spawned items
-            foreach (var gi in UnityEngine.Object.FindObjectsOfType<GearItem>())
+            GearItem[] allGearItems = UnityEngine.Object.FindObjectsOfType<GearItem>();
+            foreach (GearItem gearItem in allGearItems)
             {
-                if (FullHPItems.Contains(gi.name))
+                if (FullHPItems.Contains(gearItem.name))
                 {
-                    SetItemFullHP(gi);
+                    SetItemFullHP(gearItem);
 #if DEBUG
-                    MelonLogger.Msg($"[ToolsFullCondition Debug] {gi.name} HP set to 100%");
+            MelonLogger.Msg($"[ToolsFullCondition Debug] {gearItem.name} HP set to 100%");
 #endif
                 }
             }
 
             // Container items
-            foreach (var container in UnityEngine.Object.FindObjectsOfType<Container>())
+            Container[] allContainers = UnityEngine.Object.FindObjectsOfType<Container>();
+            foreach (Container container in allContainers)
             {
                 for (int i = 0; i < container.m_GearToInstantiate.Count; i++)
                 {
-                    var gearObj = container.m_GearToInstantiate[i];
-                    if (gearObj == null) continue;
+                    GameObject gearObject = container.m_GearToInstantiate[i];
+                    if (gearObject == null) continue;
 
-                    var gi = gearObj.GetComponent<GearItem>();
-                    if (gi == null) continue;
+                    GearItem gearItem = gearObject.GetComponent<GearItem>();
+                    if (gearItem == null) continue;
 
-                    if (FullHPItems.Contains(gi.name))
+                    if (FullHPItems.Contains(gearItem.name))
                     {
-                        SetItemFullHP(gi);
+                        SetItemFullHP(gearItem);
 #if DEBUG
-                        MelonLogger.Msg($"[ToolsFullCondition Debug] {gi.name} HP set to 100% (in container)");
+                MelonLogger.Msg($"[ToolsFullCondition Debug] {gearItem.name} HP set to 100% (in container)");
 #endif
                     }
                 }
@@ -78,7 +80,7 @@ namespace ToolsFullConditionMod
         private static void SetItemFullHP(GearItem gi)
         {
             if (gi == null) return;
-            gi.SetNormalizedHP(1f, true); // Full Condition
+            gi.SetNormalizedHP(1f, true);
         }
     }
 }
