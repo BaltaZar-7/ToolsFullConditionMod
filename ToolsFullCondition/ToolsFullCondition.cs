@@ -1,3 +1,5 @@
+#nullable disable
+
 using System.Collections;
 using System.Linq;
 using HarmonyLib;
@@ -20,7 +22,14 @@ namespace ToolsFullConditionMod
             "GEAR_MagnifyingLens",
             "GEAR_BottleHydrogenPeroxide",
             "GEAR_RevolverAmmoBox",
-            "GEAR_RifleAmmoBox"
+            "GEAR_RifleAmmoBox",
+            "GEAR_InsulatedFlask_A",
+            "GEAR_InsulatedFlask_B",
+            "GEAR_InsulatedFlask_C",
+            "GEAR_InsulatedFlask_D",
+            "GEAR_InsulatedFlask_E",
+            "GEAR_InsulatedFlask_F",
+            "GEAR_InsulatedFlask_G"
         };
 
         public override void OnInitializeMelon()
