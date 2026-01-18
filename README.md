@@ -7,6 +7,7 @@ Affected items:
 - Jerry Can
 - Magnifying Lens
 - Antiseptic
+- Insulated Flasks
 - Ammo boxes (this one is relevant only, if you have "Reduced Loot" mod installed)
 # Installation
 Download and place the dll file into your \Mods folder.  
